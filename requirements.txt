@@ -1,0 +1,12 @@
+sklearn
+fastapi
+pandas
+pydantic
+tensorflow
+keras
+cv2
+pil
+re
+uvicorn
+h5py==2.10.0
+python-multipart
